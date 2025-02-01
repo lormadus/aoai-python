@@ -40,12 +40,12 @@ You can view the template code in your directory:
 azd auth login
 ```
 명령어 실행 후 본인 계정으로 로그인 완료
-![image](https://github.com/user-attachments/assets/30994441-7d7a-4bb4-963a-ea83d1dbf441)
+![image](https://github.com/user-attachments/assets/30994441-7d7a-4bb4-963a-ea83d1dbf441) <br>
 
-<br>초기 암호는 변경합니다.
+초기 암호는 변경합니다.<br>
 ![image](https://github.com/user-attachments/assets/f3eb9a20-6e54-4026-8815-46ba3ca129d9)
 
-<br>보안 설정은 '나중에 질문'으로 넘어갑니다.
+보안 설정은 '나중에 질문'으로 넘어갑니다.<br>
 ![image](https://github.com/user-attachments/assets/2b657de2-928f-4250-8d2d-4e22d5daf9a4)
 
 
