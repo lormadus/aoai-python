@@ -52,7 +52,7 @@ azd auth login
 보안 설정은 '다음'을 선택합니다.<br>
 ![image](https://github.com/user-attachments/assets/2b657de2-928f-4250-8d2d-4e22d5daf9a4)
 
-'전화번호'를 입력 후 문자로 인증을 완료니다. <br>
+'코드받기'를 입력 후 휴대폰 문자로 인증을 완료니다. <br>
 ![image](https://github.com/user-attachments/assets/7c00867b-7675-4497-8ae3-78b71fa0d78d)
 
 
