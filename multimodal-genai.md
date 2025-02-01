@@ -48,6 +48,9 @@ azd auth login
 보안 설정은 '나중에 질문'으로 넘어갑니다.<br>
 ![image](https://github.com/user-attachments/assets/2b657de2-928f-4250-8d2d-4e22d5daf9a4)
 
+'설정 건너띄기'를 선택합니다. <br>
+![image](https://github.com/user-attachments/assets/7c00867b-7675-4497-8ae3-78b71fa0d78d)
+
 
 ### 3. 설치 ###
 ```
