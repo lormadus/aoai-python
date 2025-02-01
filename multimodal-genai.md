@@ -14,7 +14,7 @@ Windows용 <br>
 ```
 winget install microsoft.azd
 ```
-Mac용<br>
+   Mac용<br>
 ```
 brew tap azure/azd && brew install azd
 ```
