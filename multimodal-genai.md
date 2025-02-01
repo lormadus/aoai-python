@@ -34,12 +34,12 @@ SUCCESS: New project initialized!
 You can view the template code in your directory:
 /path/to/directory
 ```
-### Azure Login ###
+### 2. Azure Login ###
 아래 명령어 실행 후 본인 계정으로 로그인 완료
 ```
 azd auth login
 ```
-### 설치 ###
+### 3. 설치 ###
 ```
 azd up
 ```
