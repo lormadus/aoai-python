@@ -4,7 +4,7 @@
 1. Python 최신 버전 설치
 https://www.python.org/downloads/
 2. Git 설치
-Windows 용 - https://git-scm.com/downloads/win
+Windows 용 - https://git-scm.com/downloads/win <br>
 Mac 용 - Homebrew 설치하고
 ```
  brew install git
