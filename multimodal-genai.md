@@ -24,6 +24,10 @@ brew tap azure/azd && brew install azd
 https://azure.github.io/ai-app-templates/repo/azure-samples/openai-chat-vision-quickstart/
 
 ### 1. 템플릿 초기화 ###
+소스 코드 다운로드를 위한 temp 폴더를 만든 후 cd 명령어로 temp 폴더로 이동합니다.<br>
+![image](https://github.com/user-attachments/assets/c916f846-6667-438f-9e71-4048972df721)
+
+아래 명령어로 소스 코드를 다운로드 합니다.
 ```
 azd init -t openai-chat-vision-quickstart
 ```
