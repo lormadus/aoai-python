@@ -10,7 +10,6 @@ Mac 용 - Homebrew 설치하고
 ```
  brew install git
 ```
-<br>
 ### 3. azd 설치 ###
 1) Windows용 - PowerShell 터미널에서 아래 명령어 실행 <br>
 ```
