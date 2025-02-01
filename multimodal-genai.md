@@ -11,11 +11,11 @@ Mac 용 - Homebrew 설치하고
  brew install git
 ```
 3. azd 설치<br>
-Windows용 <br>
+1) Windows용 <br>
 ```
 winget install microsoft.azd
 ```
-Mac용<br>
+2) Mac용<br>
 ```
 brew tap azure/azd && brew install azd
 ```
