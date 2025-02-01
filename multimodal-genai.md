@@ -23,3 +23,15 @@ brew tap azure/azd && brew install azd
 ### 설치 과정은 아래 문서 참조 ###
 https://azure.github.io/ai-app-templates/repo/azure-samples/openai-chat-vision-quickstart/
 
+## 1. 템플릿 초기화 ##
+```
+azd init -t openai-chat-vision-quickstart
+```
+아래 환경 설정 이름은 jobgreegi** (**은 사용자번호)
+? Enter a new environment name: jobgreegi01
+SUCCESS: New project initialized!
+You can view the template code in your directory:
+/path/to/directory
+
+##
+
