@@ -49,10 +49,10 @@ azd auth login
 초기 암호는 변경합니다.<br>
 ![image](https://github.com/user-attachments/assets/f3eb9a20-6e54-4026-8815-46ba3ca129d9)
 
-보안 설정은 '나중에 질문'으로 넘어갑니다.<br>
+보안 설정은 '다음'을 선택합니다.<br>
 ![image](https://github.com/user-attachments/assets/2b657de2-928f-4250-8d2d-4e22d5daf9a4)
 
-'설정 건너띄기'를 선택합니다. <br>
+'전화번호'를 입력 후 문자로 인증을 완료니다. <br>
 ![image](https://github.com/user-attachments/assets/7c00867b-7675-4497-8ae3-78b71fa0d78d)
 
 
