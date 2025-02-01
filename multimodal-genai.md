@@ -62,7 +62,12 @@ azd up
 ```
 Subscription 은 Azure Sponsorship Subscription을 선택합니다. <br>
 지역은 France Central 을 선택합니다 <br>
-![image](https://github.com/user-attachments/assets/6deea26c-89f4-4845-9a7f-22a931e3fee3)
+![image](https://github.com/user-attachments/assets/631fb3f2-bbf6-44f2-93e2-e3bc38b9247d)
+
+생성된 앱의 URL을 통해 정상적으로 동작하는지 테스트 해 봅니다.<br>
+![image](https://github.com/user-attachments/assets/b7a00e67-cfc9-4bed-a135-ebd5fa15a78d)
+
+
 
 
 
