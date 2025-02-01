@@ -4,7 +4,12 @@
 1. Python 최신 버전 설치
 https://www.python.org/downloads/
 2. Git 설치
-3. azd 설
+Windows 용 - https://git-scm.com/downloads/win
+Mac 용 - Homebrew 설치하고
+```
+ brew install git
+```
+4. azd 설
 
 https://azure.github.io/ai-app-templates/repo/azure-samples/openai-chat-vision-quickstart/
 
