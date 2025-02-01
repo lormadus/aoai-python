@@ -60,5 +60,8 @@ azd auth login
 ```
 azd up
 ```
+Subscription 은 Visual Studio*** 를 선택합니다. <br>
+지역은 France Central 을 선택합니다 <br>
+![image](https://github.com/user-attachments/assets/7fc66774-386a-4a15-bdaa-b4ae3594db69)
 
 
