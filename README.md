@@ -1,1 +1,1 @@
-# aoai-python
+# Job Greegi Camp 2기
