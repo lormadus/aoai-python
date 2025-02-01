@@ -1,16 +1,16 @@
-## Multimodal GenAI experience: Q&A on uploaded images
+# Multimodal GenAI experience: Q&A on uploaded images
 ![image](https://github.com/user-attachments/assets/29628936-d5d1-4b40-9a74-f28b232fb15d)
 
-### 사전 작업
-#### 1. Python 최신 버전 설치
+## 사전 작업
+### 1. Python 최신 버전 설치
 https://www.python.org/downloads/
-####2. Git 설치 <br>
+###2. Git 설치 <br>
 Windows 용 - https://git-scm.com/downloads/win <br>
 Mac 용 - Homebrew 설치하고
 ```
  brew install git
 ```
-####3. azd 설치<br>
+###3. azd 설치<br>
 1) Windows용 - PowerShell 터미널에서 아래 명령어 실행 <br>
 ```
 winget install microsoft.azd
