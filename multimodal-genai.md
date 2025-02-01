@@ -35,10 +35,13 @@ You can view the template code in your directory:
 /path/to/directory
 ```
 ### 2. Azure Login ###
-아래 명령어 실행 후 본인 계정으로 로그인 완료
+
 ```
 azd auth login
 ```
+명령어 실행 후 본인 계정으로 로그인 완료
+![image](https://github.com/user-attachments/assets/30994441-7d7a-4bb4-963a-ea83d1dbf441)
+
 ### 3. 설치 ###
 ```
 azd up
