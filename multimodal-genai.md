@@ -9,7 +9,7 @@ Mac 용 - Homebrew 설치하고
 ```
  brew install git
 ```
-4. azd 설치<br>
+3. azd 설치<br>
 Windows용 <br>
 ```
 winget install microsoft.azd
