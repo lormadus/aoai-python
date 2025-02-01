@@ -1,4 +1,5 @@
 ## Multimodal GenAI experience: Q&A on uploaded images
+![image](https://github.com/user-attachments/assets/29628936-d5d1-4b40-9a74-f28b232fb15d)
 
 ### 사전 작업
 1. Python 최신 버전 설치
